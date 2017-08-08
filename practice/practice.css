@@ -1,0 +1,10 @@
+h1, h2 { color:pink; }
+style h1,h2 {
+  display: block;
+  border: 4px dashed lightblue;
+}
+body{
+  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/98/a1/8e/98a18e74e198f2754306fef10da5e6c2.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+}
